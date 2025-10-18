@@ -89,7 +89,6 @@ Send posts to chat
 🚀 Getting Started
 1. Install Flutter
 2. Clone the Repository
-git clone https://github.com/AhmedAbdoElhawary/flutter-clean-architecture-instagram
 cd flutter-clean-architecture-instagram/
 
 3. Setup Firebase & Agora 🔧
